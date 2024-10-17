@@ -1,4 +1,4 @@
-# MF_NN_Recommender_System
+# Matrix Factorization with Neural Network in Recommender_System
 Movie Recommendation System using TensorFlow and Movielens 1M Dataset
 This GitHub repository contains a Python implementation of a movie recommendation system using TensorFlow, focusing on collaborative filtering. The model is trained and evaluated on the Movielens 1M dataset, a popular dataset in the field of recommendation systems. Collaborative filtering aims to predict user preferences based on their historical interactions with items and leverages the similarity among users or items.
 
